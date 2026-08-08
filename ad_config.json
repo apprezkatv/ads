@@ -1,0 +1,21 @@
+{
+  "isEnabled": true,
+  "networks": [
+    {
+      "id": "network_0",
+      "vastTagUrl": "",
+      "inlineVideoUrl": "https://samplelib.com/mp4/sample-5s.mp4",
+      "clickUrl": "",
+      "weight": 1,
+      "skipOffsetSeconds": -1,
+      "isEnabled": true,
+      "geoblockCountries": []
+    }
+  ],
+  "geoblockCountries": [],
+  "cooldownMinutes": 60,
+  "showToPremium": false,
+  "adTitleLabel": "Реклама",
+  "skipButtonLabel": "Пропустить",
+  "skipCountdownLabel": "Реклама через %d"
+}
