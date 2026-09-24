@@ -1,5 +1,5 @@
 {
-  "isEnabled": true,
+  "isEnabled": false,
   "networks": [
     {
       "id": "pream_add_man",
